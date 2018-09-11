@@ -1,8 +1,8 @@
 # Lab Meetings QuantGen Group Fall 2018
 
-## When?
+## When? Every Tuesday from 11am -noon
 
-## Where?
+## Where? IQ (775 Woodlot Dr.)
 
 [Group's Website](http://quantgen.github.io/)
 
