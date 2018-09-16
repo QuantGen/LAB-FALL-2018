@@ -12,7 +12,7 @@
 | Sept. 25th   |  | |  |
 | Oct. 2nd   |  | |  |
 | Oct. 9th   |  | |  |
-| Oct. 16th   |  | |  |
+| Oct. 16th   | Marco Lopez-Cruz | |  |
 | Oct. 23rd  |  | |  |
 | Oct. 30th  |  | |  |
 | Nov. 6th   |  | |  |
