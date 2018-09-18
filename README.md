@@ -8,7 +8,7 @@
 
 | Date           | Presenter     |  Topic        |  Materials    |
 | -------------  | ------------- | ------------- | ------------- |
-| Sept. 18th | Alexander Grueneberg | HPCC: 2018 Environment Update & Migration | [Slides](https://slides.agrueneberg.info/2018-09-18-hpcc-environment-update-and-migration.html) |
+| Sept. 18th | Alexander Grueneberg | HPCC: 2018 Environment Update & Migration | [Slides](https://slides.agrueneberg.info/2018-09-18-hpcc-environment-update-and-migration.html), [Announcement](https://wiki.hpcc.msu.edu/display/ITH/2018+Environment+Update+and+Migration) |
 | Sept. 25th   |  | |  |
 | Oct. 2nd   |  | |  |
 | Oct. 9th   |  | |  |
