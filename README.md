@@ -16,7 +16,7 @@
 | Oct. 23rd  |  | |  |
 | Oct. 30th  |  | |  |
 | Nov. 6th   |  | |  |
-| Nov. 20th   |  | |  |
+| Nov. 20th   |Alexa Lupi  | |  |
 | Nov. 27th   |  | |  |
 | Dec. 4th   |  | |  |
 
