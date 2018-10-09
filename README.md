@@ -13,7 +13,7 @@
 | Oct. 2nd   | Bea Cuyabano | heritability and prediction with genomic models |  |
 | Oct. 9th   | Agustin Gonzalez | A modification of the PLAGE method: Multi-Omic Gene Set and Gene Selection Analysis   | I'll review the basics of gene set analysis, using the PLAGE method as an example. I'll also show a modification I used in my thesis, based on sparse SVD ( [PLAGE method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1261155/), [sSVD](https://www.sciencedirect.com/science/article/pii/S0047259X07000887), [Comparison of GSA methods](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079217)) |
 | Oct. 16th   | Marco Lopez-Cruz | |  |
-| Oct. 23rd  |  | |  |
+| Oct. 23rd  | Mengying Sun | |  |
 | Oct. 30th  |  | |  |
 | Nov. 6th   |  | |  |
 | Nov. 20th   |Alexa Lupi  | |  |
