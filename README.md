@@ -18,5 +18,6 @@
 | Nov. 6th   |  | |  |
 | Nov. 20th   |Alexa Lupi  | |  |
 | Nov. 27th   |  | |  |
+|  Thursday, Nov 29th |  Maria Martinez Castillero  | Genetic analysis of fertilty traits and study of GxE in dairy cattle   | 1210 Anthony Hall  |
 | Dec. 4th   |  | |  |
 
