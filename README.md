@@ -16,8 +16,8 @@
 | Oct. 23rd  | Mengying Sun | Locally dependent screening: A Strategy for developing an accurate genomic predictor using Big Data| [Slides](https://www.dropbox.com/s/dt5hmd7y20jbyxx/insights-into-dependent-screening.pdf?dl=0) |
 | Oct. 30th  |  Mengying & Scott |Discussion on Polygenic Risk Scores | [paper 1](https://ac.els-cdn.com/S0002929715003651/1-s2.0-S0002929715003651-main.pdf?_tid=1a891029-b9fe-4629-89d9-661f398685bc&acdnat=1540578354_3068ede2e1ee88cabd2e1408774c3bd6) and [paper 2](https://www.nature.com/articles/s41588-018-0183-z.pdf) and [slides](https://www.dropbox.com/s/s8d9a07mdsv1zhv/polygenic-risk-score.pdf?dl=0) |
 | Nov. 6th   |  | |  |
-| Nov. 20th   |Alexa Lupi  | |  |
-| Nov. 27th   |  | |  |
+| Nov. 20th   |  | |  |
+| Nov. 27th   | Alexa Lupi | |  |
 |  Thursday, Nov 29th |  Maria Martinez Castillero  | Genetic analysis of fertilty traits and study of GxE in dairy cattle   | 1240 Anthony Hall  |
 | Dec. 4th   |  | |  |
 
