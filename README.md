@@ -19,5 +19,5 @@
 | Nov. 20th   |  | |  |
 | Nov. 27th   | Alexa Lupi | |  |
 |  Thursday, Nov 29th |  Maria Martinez Castillero  | Genetic analysis of fertilty traits and study of GxE in dairy cattle   | 1240 Anthony Hall  |
-| Dec. 4th   |  | |  |
+| Dec. 4th   | Gabriel Rovere | | Prediction of individual fatty acids content in dairy milk samples using mid-infrared spectra data|
 
